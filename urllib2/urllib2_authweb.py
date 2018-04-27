@@ -1,7 +1,7 @@
 # coding:utf-8
 
 
-import  urllib2
+import urllib2
 
 test = "test"
 password = "123456"
